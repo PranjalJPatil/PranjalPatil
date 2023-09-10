@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Pranjal Patil
+Pranjal Patil
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+pranjalpj17@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (385) 457-8991
 
 Birthday
-June 23, 1982
+July 17, 2000
 
 Location
-Sacramento, California, USA
+Salt Lake City, Utah, USA
 
 # navbar
 
@@ -32,10 +32,15 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Hello, I'm Pranjal, currently pursuing my Masters in Computer Science at the University of Utah. My passion lies in the realm of algorithms
+and scalable data structures, which I've honed through my dedication to competitive programming. With over 400 solved problems on platforms 
+like LeetCode, I've continually pushed myself to excel.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Furthermore, my enthusiasm extends to backend web development, where I had the opportunity to intern with Truveta, contributing to their 
+backend microservices. During my undergraduate years, I was an integral part of a web development team, where I successfully led the 
+migration of an outdated website to a more robust web stack.
 
+My skill set includes proficiency in Java, React, Node.js, and MongoDB technologies.
 
 ## service
 
@@ -93,8 +98,8 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
+University of Utah
+2022 — 2024
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 New york academy of art
